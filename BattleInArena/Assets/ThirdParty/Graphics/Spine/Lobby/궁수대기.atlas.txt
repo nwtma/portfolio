@@ -1,0 +1,97 @@
+
+궁수대기.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ar
+  rotate: true
+  xy: 1893, 1629
+  size: 173, 109
+  orig: 173, 109
+  offset: 0, 0
+  index: -1
+ar1
+  rotate: true
+  xy: 1893, 1446
+  size: 181, 98
+  orig: 181, 98
+  offset: 0, 0
+  index: -1
+bo
+  rotate: false
+  xy: 2, 379
+  size: 1316, 1665
+  orig: 1316, 1667
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 798, 100
+  size: 27, 26
+  orig: 28, 26
+  offset: 1, 0
+  index: -1
+h
+  rotate: false
+  xy: 1812, 878
+  size: 69, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 1893, 1804
+  size: 123, 240
+  orig: 123, 244
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 607, 16
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 1320, 387
+  size: 577, 490
+  orig: 666, 538
+  offset: 89, 48
+  index: -1
+h4
+  rotate: false
+  xy: 607, 77
+  size: 189, 300
+  orig: 189, 300
+  offset: 0, 0
+  index: -1
+h5
+  rotate: false
+  xy: 798, 128
+  size: 233, 249
+  orig: 233, 249
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1033, 197
+  size: 168, 180
+  orig: 168, 180
+  offset: 0, 0
+  index: -1
+hi
+  rotate: false
+  xy: 1320, 966
+  size: 571, 1078
+  orig: 571, 1078
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 2, 2
+  size: 375, 603
+  orig: 376, 603
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+마법사 선택대기.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 2, 645
+  size: 864, 1394
+  orig: 864, 1394
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 868, 308
+  size: 865, 765
+  orig: 865, 769
+  offset: 0, 4
+  index: -1
+Layer 10
+  rotate: true
+  xy: 831, 599
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 868, 1075
+  size: 786, 964
+  orig: 786, 964
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 70
+  size: 660, 573
+  orig: 660, 573
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1656, 1810
+  size: 235, 229
+  orig: 235, 230
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 664, 526
+  size: 165, 117
+  orig: 165, 117
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 2, 2
+  size: 66, 149
+  orig: 66, 149
+  offset: 0, 0
+  index: -1

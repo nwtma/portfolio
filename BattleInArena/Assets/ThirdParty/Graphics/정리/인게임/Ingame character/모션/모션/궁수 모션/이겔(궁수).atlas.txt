@@ -1,0 +1,153 @@
+
+이겔(궁수).png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IG_asd
+  rotate: true
+  xy: 548, 71
+  size: 39, 121
+  orig: 39, 122
+  offset: 0, 0
+  index: -1
+IG_dfs
+  rotate: true
+  xy: 715, 166
+  size: 87, 156
+  orig: 87, 156
+  offset: 0, 0
+  index: -1
+IG_dsfe
+  rotate: false
+  xy: 446, 79
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+IG_dsfwe4gv
+  rotate: true
+  xy: 715, 93
+  size: 71, 155
+  orig: 71, 156
+  offset: 0, 0
+  index: -1
+IG_ekjflksd
+  rotate: true
+  xy: 872, 38
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+IG_fetggh
+  rotate: false
+  xy: 2, 9
+  size: 275, 98
+  orig: 275, 98
+  offset: 0, 0
+  index: -1
+IG_fetggh - 복사본
+  rotate: false
+  xy: 288, 156
+  size: 275, 97
+  orig: 275, 98
+  offset: 0, 0
+  index: -1
+IG_head
+  rotate: true
+  xy: 565, 112
+  size: 141, 148
+  orig: 141, 148
+  offset: 0, 0
+  index: -1
+IG_leye
+  rotate: false
+  xy: 996, 204
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+IG_leyew
+  rotate: false
+  xy: 710, 63
+  size: 29, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IG_lshair
+  rotate: true
+  xy: 279, 67
+  size: 36, 158
+  orig: 36, 158
+  offset: 0, 0
+  index: -1
+IG_quiver
+  rotate: false
+  xy: 957, 110
+  size: 51, 68
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+IG_reye
+  rotate: false
+  xy: 996, 229
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IG_reyew
+  rotate: true
+  xy: 405, 30
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+IG_rhand1
+  rotate: false
+  xy: 671, 77
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+IG_rshair
+  rotate: true
+  xy: 288, 105
+  size: 49, 156
+  orig: 49, 158
+  offset: 0, 1
+  index: -1
+IG_sad
+  rotate: true
+  xy: 279, 25
+  size: 40, 124
+  orig: 40, 124
+  offset: 0, 0
+  index: -1
+IG_sdad
+  rotate: true
+  xy: 2, 109
+  size: 144, 284
+  orig: 145, 285
+  offset: 0, 0
+  index: -1
+IG_sdasd
+  rotate: true
+  xy: 873, 180
+  size: 73, 121
+  orig: 89, 132
+  offset: 0, 11
+  index: -1
+IG_weapon3
+  rotate: false
+  xy: 2, 2
+  size: 244, 5
+  orig: 244, 6
+  offset: 0, 1
+  index: -1
+sadw
+  rotate: false
+  xy: 873, 108
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+zxc.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 1426
+  size: 1251, 598
+  orig: 1251, 598
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 1377, 536
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 1126, 235
+  size: 61, 100
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 1377, 417
+  size: 101, 117
+  orig: 101, 117
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 2
+  size: 150, 136
+  orig: 150, 137
+  offset: 0, 1
+  index: -1
+Layer 16
+  rotate: true
+  xy: 694, 226
+  size: 536, 430
+  orig: 536, 430
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 1039, 811
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 1549, 792
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 1549, 1173
+  size: 301, 450
+  orig: 301, 450
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 1126, 298
+  size: 249, 492
+  orig: 251, 492
+  offset: 2, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 2, 140
+  size: 690, 622
+  orig: 690, 670
+  offset: 0, 42
+  index: -1
+Layer 25
+  rotate: true
+  xy: 1549, 815
+  size: 356, 308
+  orig: 356, 309
+  offset: 0, 1
+  index: -1
+Layer 26
+  rotate: false
+  xy: 1255, 1625
+  size: 694, 399
+  orig: 696, 399
+  offset: 2, 0
+  index: -1
+Layer 27
+  rotate: true
+  xy: 1951, 1835
+  size: 189, 72
+  orig: 189, 72
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: false
+  xy: 1039, 845
+  size: 222, 579
+  orig: 227, 579
+  offset: 5, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 1263, 792
+  size: 284, 831
+  orig: 284, 831
+  offset: 0, 0
+  index: -1
+Layer 30
+  rotate: true
+  xy: 694, 150
+  size: 74, 107
+  orig: 74, 107
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 764
+  size: 1035, 660
+  orig: 1035, 660
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1852, 1532
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1

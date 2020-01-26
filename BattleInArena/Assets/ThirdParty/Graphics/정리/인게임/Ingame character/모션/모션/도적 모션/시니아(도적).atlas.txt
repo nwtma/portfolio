@@ -1,0 +1,160 @@
+
+시니아(도적).png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SN_bhair
+  rotate: false
+  xy: 2, 95
+  size: 177, 159
+  orig: 177, 165
+  offset: 0, 0
+  index: -1
+SN_body
+  rotate: true
+  xy: 2, 14
+  size: 79, 137
+  orig: 87, 137
+  offset: 0, 0
+  index: -1
+SN_eye1
+  rotate: true
+  xy: 972, 213
+  size: 41, 48
+  orig: 43, 49
+  offset: 1, 1
+  index: -1
+SN_eye2
+  rotate: true
+  xy: 362, 90
+  size: 34, 43
+  orig: 36, 43
+  offset: 1, 0
+  index: -1
+SN_eyeo
+  rotate: false
+  xy: 552, 143
+  size: 84, 25
+  orig: 84, 25
+  offset: 0, 0
+  index: -1
+SN_head
+  rotate: false
+  xy: 316, 126
+  size: 119, 128
+  orig: 121, 129
+  offset: 0, 0
+  index: -1
+SN_hear
+  rotate: false
+  xy: 181, 101
+  size: 133, 153
+  orig: 133, 153
+  offset: 0, 0
+  index: -1
+SN_larm
+  rotate: true
+  xy: 792, 218
+  size: 36, 111
+  orig: 36, 111
+  offset: 0, 0
+  index: -1
+SN_lear
+  rotate: false
+  xy: 181, 44
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+SN_leye
+  rotate: false
+  xy: 290, 71
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+SN_leyew
+  rotate: true
+  xy: 407, 83
+  size: 41, 30
+  orig: 42, 30
+  offset: 1, 0
+  index: -1
+SN_lleg
+  rotate: true
+  xy: 552, 213
+  size: 41, 125
+  orig: 45, 125
+  offset: 0, 0
+  index: -1
+SN_lshoes
+  rotate: false
+  xy: 316, 88
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+SN_lweapon
+  rotate: false
+  xy: 141, 30
+  size: 38, 63
+  orig: 39, 63
+  offset: 1, 0
+  index: -1
+SN_rarm
+  rotate: true
+  xy: 679, 214
+  size: 40, 111
+  orig: 41, 114
+  offset: 0, 3
+  index: -1
+SN_rear
+  rotate: true
+  xy: 181, 2
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+SN_reye
+  rotate: false
+  xy: 141, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+SN_reyew
+  rotate: false
+  xy: 638, 137
+  size: 32, 31
+  orig: 34, 31
+  offset: 1, 0
+  index: -1
+SN_rleg
+  rotate: true
+  xy: 552, 170
+  size: 41, 122
+  orig: 44, 122
+  offset: 3, 0
+  index: -1
+SN_rshoes
+  rotate: false
+  xy: 232, 64
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+SN_rweapon
+  rotate: true
+  xy: 905, 223
+  size: 31, 65
+  orig: 32, 67
+  offset: 1, 1
+  index: -1
+SN_tail
+  rotate: false
+  xy: 437, 141
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+화련(무사)_파츠수정 완료.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 286, 190
+  size: 64, 245
+  orig: 65, 245
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 910, 208
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+hwa-ulcloth
+  rotate: false
+  xy: 461, 72
+  size: 91, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+hwa_armor
+  rotate: true
+  xy: 637, 9
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+hwa_bcloth
+  rotate: true
+  xy: 978, 180
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+hwa_bhair
+  rotate: true
+  xy: 2, 30
+  size: 224, 282
+  orig: 224, 282
+  offset: 0, 0
+  index: -1
+hwa_cloth
+  rotate: true
+  xy: 554, 2
+  size: 71, 81
+  orig: 87, 92
+  offset: 4, 5
+  index: -1
+hwa_fhair
+  rotate: false
+  xy: 554, 75
+  size: 138, 146
+  orig: 138, 147
+  offset: 0, 1
+  index: -1
+hwa_head
+  rotate: false
+  xy: 694, 92
+  size: 120, 129
+  orig: 120, 129
+  offset: 0, 0
+  index: -1
+hwa_larm
+  rotate: false
+  xy: 393, 2
+  size: 36, 72
+  orig: 37, 72
+  offset: 1, 0
+  index: -1
+hwa_larm1
+  rotate: false
+  xy: 873, 139
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+hwa_larm2
+  rotate: true
+  xy: 2, 3
+  size: 25, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hwa_lcalf
+  rotate: true
+  xy: 910, 176
+  size: 30, 66
+  orig: 89, 212
+  offset: 59, 0
+  index: -1
+hwa_leye
+  rotate: true
+  xy: 859, 115
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+hwa_leye1
+  rotate: false
+  xy: 37, 15
+  size: 39, 13
+  orig: 46, 23
+  offset: 2, 5
+  index: -1
+hwa_leyebrow
+  rotate: false
+  xy: 689, 9
+  size: 39, 7
+  orig: 39, 8
+  offset: 0, 1
+  index: -1
+hwa_leyebrow1
+  rotate: false
+  xy: 78, 19
+  size: 41, 9
+  orig: 61, 22
+  offset: 10, 7
+  index: -1
+hwa_lshoes
+  rotate: false
+  xy: 760, 11
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+hwa_lshoes1
+  rotate: false
+  xy: 970, 214
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+hwa_lthigh
+  rotate: false
+  xy: 816, 151
+  size: 55, 103
+  orig: 55, 103
+  offset: 0, 0
+  index: -1
+hwa_mouse
+  rotate: false
+  xy: 784, 224
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+hwa_mouse1
+  rotate: true
+  xy: 957, 142
+  size: 32, 7
+  orig: 41, 23
+  offset: 4, 8
+  index: -1
+hwa_rarm
+  rotate: false
+  xy: 431, 45
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+hwa_rarm1
+  rotate: false
+  xy: 431, 7
+  size: 34, 36
+  orig: 38, 36
+  offset: 4, 0
+  index: -1
+hwa_rarm2
+  rotate: false
+  xy: 873, 178
+  size: 35, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: -1
+hwa_rcalf
+  rotate: true
+  xy: 808, 56
+  size: 31, 62
+  orig: 34, 62
+  offset: 3, 0
+  index: -1
+hwa_reye
+  rotate: true
+  xy: 533, 194
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+hwa_reyebrow
+  rotate: false
+  xy: 873, 129
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+hwa_rhand
+  rotate: false
+  xy: 784, 234
+  size: 30, 20
+  orig: 31, 20
+  offset: 1, 0
+  index: -1
+hwa_rshoes
+  rotate: true
+  xy: 816, 89
+  size: 60, 41
+  orig: 60, 42
+  offset: 0, 1
+  index: -1
+hwa_rshoulder
+  rotate: true
+  xy: 910, 138
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+hwa_rthigh
+  rotate: true
+  xy: 286, 26
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+hwa_string
+  rotate: false
+  xy: 689, 18
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+hwa_sword
+  rotate: false
+  xy: 533, 223
+  size: 249, 31
+  orig: 249, 31
+  offset: 0, 0
+  index: -1
+hwa_swordhouse
+  rotate: true
+  xy: 286, 76
+  size: 112, 173
+  orig: 113, 173
+  offset: 1, 0
+  index: -1
+hwa_urcloth
+  rotate: true
+  xy: 694, 53
+  size: 37, 112
+  orig: 41, 112
+  offset: 4, 0
+  index: -1
