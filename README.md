@@ -19,4 +19,4 @@ Battle In Arena
 참여 인원 : 16명  
   
 참여 부분 : 디버깅, RPC를 이용하여 상대방에게도 범위 표시하기  
-상대방 범위 표시 - B조 BattleInArena 유니티 파일\Assets\BattleInArea\Scripts\BattleInArea\BattleInAreaClient.cs
+상대방 범위 표시 - BattleInArena\Assets\BattleInArea\Scripts\BattleInArea\BattleInAreaClient.cs
